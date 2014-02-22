@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoriMinorAssignment1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lblEnterName">Enter your name here.</string>
+    <string name="lblEnter">Enter</string>
+    <string name="blank"></string>
+    <string name="lblHello">Hello,</string>
+
+</resources>
